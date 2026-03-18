@@ -47,7 +47,7 @@ Awesome Open Source pages made by companies
 ## IT players / Software vendors / Cloud providers
 
 - [Google Open Source](https://opensource.google/)
-- [SAP Open Source](https://pages.community.sap.com/topics/open-source)
+- [SAP Open Source](https://opensource.sap.com/) - [GitHub](https://github.com/sap) - [Manifesto](https://github.com/SAP/open-source-manifesto)
 - [Open Source @ IBM](https://www.ibm.com/opensource/) - [GitHub](https://github.com/IBM)
 - [newrelic Open Source](https://opensource.newrelic.com/) - [GitHub](https://github.com/newrelic)
 - [Alibaba Open Source](http://alibaba.github.io/) - [GitHub](https://github.com/alibaba)
