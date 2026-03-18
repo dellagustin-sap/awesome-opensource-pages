@@ -17,6 +17,7 @@ Awesome Open Source pages made by companies
 - [Open Source @ Deutsche Bahn](https://opensource.deutschebahn.com/opensource-en) - [Manifesto](https://opensource.deutschebahn.com/opensource-en) - [GitHub](https://github.com/dbsystel)
 - [Western Digital Open Source](https://www.westerndigital.com/company/innovation/open-source) - GitHub
 - [Sony Open Source](https://developer.sony.com/open-source) - [GitHub](https://github.com/sony) - [Licenses obligation website](https://oss.sony.net/Products/Linux/common/search.html)
+- CARIAD - a Volkswagen Group Company - [Manifesto](https://cariad.technology/content/dam/digitalmindofmobility/documents/OpenSource_Manifesto_CARIAD.pdf) ([blog post, June 11, 2024](https://cariad.technology/de/en/news/stories/cariad-open-source-manifesto.html)) 
 
 ## Telecom
 
